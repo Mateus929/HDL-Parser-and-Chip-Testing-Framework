@@ -28,4 +28,4 @@ format:
 lint:
 	poetry run ruff format src tests --check
 	poetry run ruff check  src tests
-	poetry run mypy src tests
+	poetry run mypy --strict src tests
