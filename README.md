@@ -66,7 +66,7 @@ The framework supports these primitive gates:
 
 ## Setup
 
-1. Clone the repository or download ZIP
+1. Clone the repository or download ZIP:
 
 Option A: Clone via Git
 ```bash
@@ -74,7 +74,7 @@ git clone https://github.com/Mateus929/HDL-Parser-and-Chip-Testing-Framework.git
 cd HDL-Parser-and-Chip-Testing-Framewor
 ```
 
-Option B: Download and extract the ZIP file:
+Option B: Download and extract the ZIP file
 ```bash
 unzip your_zip_file_name.zip
 cd HDL-Parser-and-Chip-Testing-Framework
